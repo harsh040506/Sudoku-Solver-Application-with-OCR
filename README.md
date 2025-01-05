@@ -46,7 +46,7 @@ This Python application allows users to upload an image of a Sudoku puzzle and g
 A sample image of a Sudoku puzzle is included in the package under the `sample_data` directory. You can use this image for testing:
 
 - `Sudoku Solver Application with OCR/sample_data/Sudoku Test Image.jpg` (Input image)
-- Sudoku Solver Application with OCR/sample_data/Sudoku Test Image Solution.jpg` (Corresponding solution)
+- `Sudoku Solver Application with OCR/sample_data/Sudoku Test Image Solution.jpg` (Corresponding solution)
 
 ## How It Works
 1. The user uploads an image of a Sudoku puzzle.
