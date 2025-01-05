@@ -16,8 +16,7 @@ This Python application allows users to upload an image of a Sudoku puzzle and g
 ## Installation
 1. Clone this repository or download the source code.
    ```bash
-   git clone https://github.com/harsh040506/Sudoku-Solver-Application-with-OCR
-   cd sudoku_solver
+   git clone https://github.com/harsh040506/Sudoku-Solver-Application-with-OCR cd sudoku_solver
    ```
 
 2. Install the required dependencies:
